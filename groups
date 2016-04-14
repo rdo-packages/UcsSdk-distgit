@@ -1,5 +1,5 @@
-# UUID          Group Name
-6ddfecad023c6f4fa3ac8c4d2583c502ea675a73 	Non-Interactive Users
-4fba5ae0865b1ab4a20195e742244f47fc6a5924       	UcsSdk-distgit-core
-3e15d841d123085a9fdf4b2133e856222343155f        	UcsSdk-distgit-ptl
-global:Registered-Users		Registered Users
+# UUID                                  	Group Name
+#
+3e15d841d123085a9fdf4b2133e856222343155f	openstack/UcsSdk-distgit-ptl
+4fba5ae0865b1ab4a20195e742244f47fc6a5924	UcsSdk-distgit-core
+global:Registered-Users                 	Registered Users
