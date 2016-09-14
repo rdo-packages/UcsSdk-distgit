@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "facab960_7d30f056",
+        "filename": "python-UcsSdk.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 113
+      },
+      "writtenOn": "2016-09-14T14:02:27Z",
+      "side": 1,
+      "message": "UcsSdk is not an OpenStack project, I can\u0027t find  this URL.",
+      "range": {
+        "startLine": 10,
+        "startChar": 16,
+        "endLine": 10,
+        "endChar": 78
+      },
+      "revId": "e5e8026249bd60a0be9432e5910612fe611b185d",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    }
+  ]
+}
