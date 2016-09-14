@@ -2,8 +2,8 @@
 %global package_name UcsSdk
 
 Name:           python-%{package_name}
-Version:        XXX
-Release:        XXX
+Version:        0.8.2.5
+Release:        1%{?dist}
 Summary:        Python SDK for Cisco UCS Manager
 
 License:        ASL 2.0
@@ -33,3 +33,6 @@ Python development kit for Cisco UCS
 %license LICENSE.txt
 
 %changelog
+* Wed Sep 14 2016 Haïkel Guémar <hguemar@fedoraproject.org> - 0.8.2.5-1
+- Upstream 0.8.2.5
+
