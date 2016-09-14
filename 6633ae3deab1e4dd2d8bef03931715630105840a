@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "facab960_dd6c9c39",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 2
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 113
+      },
+      "writtenOn": "2016-09-14T14:19:19Z",
+      "side": 1,
+      "message": "Its URL is https://github.com/CiscoUcs/UcsPythonSDK\n\nI wonder where it is needed :?",
+      "range": {
+        "startLine": 9,
+        "startChar": 0,
+        "endLine": 9,
+        "endChar": 32
+      },
+      "revId": "6633ae3deab1e4dd2d8bef03931715630105840a",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    }
+  ]
+}
