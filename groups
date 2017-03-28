@@ -1,6 +1,9 @@
-# UUID                                  	Group Name
-#
-3e15d841d123085a9fdf4b2133e856222343155f	openstack/UcsSdk-distgit-ptl
-4fba5ae0865b1ab4a20195e742244f47fc6a5924	openstack/UcsSdk-distgit-core
-63673ea7f2ae6a5666566b1ea9f14e473d00f5a9	rdo-core
-global:Registered-Users                 	Registered Users
+# UUID Group Name
+global:Registered-Users	Registered Users
+4572c517702492251ad622a289176552a8acbbb2	rdo-superusers
+28b6f5fccf8ecb9701c3104efdb98089b7517f7f	openstack/UcsSdk-ptl
+global:Anonymous-Users	Anonymous Users
+05a678d3d4a168e149d5e8a0063bbd1b1c5526da	Administrators
+401cf37bee35d1c809d4d957e55f2a304f8eed69	rdo-provenpackagers
+40ec7bf1c82f367d102f2a105bde05b985b45922	openstack/UcsSdk-core
+6ddfecad023c6f4fa3ac8c4d2583c502ea675a73	Non-Interactive Users
