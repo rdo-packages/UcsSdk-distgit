@@ -2,8 +2,8 @@
 %global package_name UcsSdk
 
 Name:           python-%{package_name}
-Version:        XXX
-Release:        XXX
+Version:        0.8.2.5
+Release:        1%{?dist}
 Summary:        Python SDK for Cisco UCS Manager
 
 License:        ASL 2.0
@@ -33,3 +33,6 @@ Python development kit for Cisco UCS
 %license LICENSE.txt
 
 %changelog
+* Thu Aug 16 2018 RDO <dev@lists.rdoproject.org> 0.8.2.5-1
+- Update to 0.8.2.5
+
